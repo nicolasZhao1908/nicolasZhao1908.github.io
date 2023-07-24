@@ -1,12 +1,6 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - nicolasZhao1908
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - nicolasZhao1908/dotfiles
+  - ProyectoAether/Aether-Portal
