@@ -25,6 +25,5 @@ His main interests are:
 - General Purpose Graphics Processing Unit (GPGPU)
 - Field Programmable Gate Array (FPGA)
 - Central Processing Unit (CPU)
-
-Besides studies and research, his hobbies are weight training,
-rope jumping and reading history books.
+<!-- Besides studies and research, his hobbies are weight training, -->
+<!-- jump rope and reading history books. -->
