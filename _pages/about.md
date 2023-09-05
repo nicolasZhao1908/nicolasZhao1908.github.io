@@ -15,15 +15,5 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Nicolás received his BSc in Software Engineering from the 
-[University of Málaga (UMA)](https://www.uma.es/) in Málaga, Spain. Now he is persuing 
-his MSc in High Performance Computing at the 
-[Universitat Politècnica de Catalunya (UPC)](https://www.upc.edu/en/).
-
-His main interests are:
-
-- General Purpose Graphics Processing Unit (GPGPU)
-- Field Programmable Gate Array (FPGA)
-- Central Processing Unit (CPU)
-<!-- Besides studies and research, his hobbies are weight training, -->
-<!-- jump rope and reading history books. -->
+I am a graduate student of the Master in High Performance Computing at the 
+[Universitat Politècnica de Catalunya (UPC)](https://www.upc.edu/en/). My main research interest is energy and memory efficient Graphics Processing Unit microarchitecture for Ray Tracing.
