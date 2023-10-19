@@ -16,4 +16,4 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 I am a graduate student of the Master in High Performance Computing at the 
-[Universitat Politècnica de Catalunya (UPC)](https://www.upc.edu/en/). My main research interest is energy and memory efficient Graphics Processing Unit microarchitecture for Ray Tracing.
+[Universitat Politècnica de Catalunya (UPC)](https://www.upc.edu/en/).
