@@ -2,9 +2,9 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: blank # the website title (if blank, full name will be used instead)
+title: Nico Zhao # the website title (if blank, full name will be used instead)
 first_name: Nicolás
-middle_name: Z.
+middle_name: Zhilie
 last_name: Zhao
 email: nicozcs2019@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
@@ -12,10 +12,10 @@ description: > # the ">" symbol means to ignore newlines until "footer_text:"
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-keywords: nicozhao, gpu, cpu, fpga, reinforcement learning, computer architecture # add your own keywords or leave empty
+keywords: Nicolás Zhilie Zhao, Nicolás Zhao, RISC-V, Kernel, Operating systems # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: logo.png # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+#icon: logo.png 
 
 url: https://nicolasZhao1908.github.io # the base hostname & protocol for your site
 baseurl:  # the subpath of your site, e.g. /blog/
@@ -79,7 +79,7 @@ telegram_username: # your Telegram user name
 scholar_userid: # your Google Scholar ID
 semanticscholar_id: # your Semantic Scholar ID
 whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
-orcid_id: # your ORCID ID
+orcid_id: 0009-0003-7117-9562 # your ORCID ID
 medium_username: # your Medium username
 quora_username: # your Quora username
 publons_id: # your ID on Publons
@@ -105,8 +105,8 @@ youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 discord_id: # your discord id (18-digit unique numerical identifier)
 zotero_username: # your zotero username
 
-contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+#contact_note: >
+#  You can even add a little note about which of these is the best way to reach you.
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
@@ -122,9 +122,9 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: Nico's Blog # blog_name will be displayed in your blog page
-blog_nav_title: Blog # your blog must have a title for it to be displayed in the nav bar
-permalink: /blog/:year/:title/
+blog_name:
+blog_nav_title:
+#permalink: /blog/:year/:title/
 
 # Pagination
 pagination:
@@ -347,14 +347,14 @@ jekyll-diagrams:
 # -----------------------------------------------------------------------------
 
 enable_google_analytics:    false  # enables google analytics
-enable_cronitor_analytics: false  # enables cronitor RUM analytics
+enable_cronitor_analytics: false   # enables cronitor RUM analytics
 enable_google_verification: false  # enables google site verification
 enable_bing_verification:   false  # enables bing site verification
 enable_masonry:             true   # enables automatic project cards arrangement
 enable_math:                true   # enables math typesetting (uses MathJax)
-enable_tooltips:            true  # enables automatic tooltip links generated
+enable_tooltips:            true   # enables automatic tooltip links generated
                                    # for each section titles on pages and posts
-enable_darkmode:            true   # enables switching between light/dark modes
+enable_darkmode:            false  # enables switching between light/dark modes
 enable_navbar_social:       false  # enables displaying social links in the
                                    # navbar on the about page
 enable_project_categories:  true   # enables categorization of projects into
